@@ -1,3 +1,4 @@
+alert("Hello User,Welcome to the Game of Ankit :) please click on ok button to proceed further !!");
 let userScore = 0;
 let compScore = 0;
 
